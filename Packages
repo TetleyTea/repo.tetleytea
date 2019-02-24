@@ -7,6 +7,8 @@ Architecture: iphoneos-arm
 Filename: ./debs/felicitytheme3.deb
 Size: 17198166
 MD5sum: e706918f808d803191b7f72d0e96a3e1
+SHA1: 3f54e4750f9fd80a08406cff9c38544817675554
+SHA256: 74e0480ea26a09966b206ca3de2814234aa34b555ac6822c865795ca405c4972
 Description: An Intense and Happy theme.
 Name: Felicity 3 (iOS12)
 Author: xerusdesign
