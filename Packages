@@ -15,7 +15,7 @@ Package: com.tetleytea.felicity
 Version: 3.0
 Section: Themes (ios12)
 Maintainer: xerusDesign
-Depends: winterboard, mobilesubstrate
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.felicity.deb
 Size: 18329412
