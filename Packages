@@ -5,8 +5,8 @@ Maintainer: Jay Freeman (saurik)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.winterboard.deb
-Size: 111368
-MD5sum: 33f637d35d9c912c70f0ad2e870c849c
+Size: 111440
+MD5sum: d63d7310f3a488f662d25e31489344f2
 Description: theme manager, used by most themes.
 Name: WinterBoard
 Author: Jay Freeman (saurik)
