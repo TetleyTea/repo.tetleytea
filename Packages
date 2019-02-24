@@ -4,10 +4,9 @@ Section: System
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/winterboard_0.9.3919_iphoneos-arm.deb
-Size: 111104
-MD5sum: 903869bcc23c88eeb71615e833e626af
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
+Filename: ./debs/WinterBoard.deb
+Size: 110836
+MD5sum: f717f0f46602e7168ffe25cc8317dd04
+Description: this is a test.
+Name: SnowBoard
 Author: Reposi3 <reposithree@gmail.com>
-
