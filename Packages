@@ -4,7 +4,7 @@ Section: System
 Maintainer: Reposi3 <reposithree@gmail.com>
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/WinterBoard.deb
+Filename: ./debs/com.tetley.winterboard.deb
 Size: 110836
 MD5sum: f717f0f46602e7168ffe25cc8317dd04
 Description: this is a test.
