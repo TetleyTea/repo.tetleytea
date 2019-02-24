@@ -1,11 +1,11 @@
-Package: com.tetleyrepo.storefeatures
-Version: 1.0
-Section: Tweaks
-Maintainer: aJBboCydia
+Package: com.tetleyrepo.felicitytheme
+Version: 3.0
+Section: Themes
+Maintainer: xerusdesign <https://twitter.com/xerusdesign>
 Architecture: iphoneos-arm
-Filename: ./debs/storefeatures_1.0.deb
-Size: 33882
-MD5sum: 4cf726948f5df20f2e9af70408f1d220
-Description: Add More Features to Cydia
-Name: Store Features
-Author: aJBboCydia
+Filename: ./debs/felicitytheme_3.0.deb
+Size: 17198166
+MD5sum: e706918f808d803191b7f72d0e96a3e1
+Description: An Intense and Happy theme.
+Name: Felicity 3 (iOS12)
+Author: xerusdesign
