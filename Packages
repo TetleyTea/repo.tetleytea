@@ -1,7 +1,6 @@
 Package: com.tetleyrepo.felicitytheme
 Version: 3.0
 Section: Themes
-Depends: snowboard
 Maintainer: xerusdesign <https://twitter.com/xerusdesign>
 Architecture: iphoneos-arm
 Filename: ./debs/felicitytheme_3.0.deb
