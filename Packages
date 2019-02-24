@@ -10,3 +10,16 @@ MD5sum: e7d85f3411ad4150643891ac93aa0a43
 Description: a test app for writing in root filesystem.
 Name: TestRootApp
 Author: Fr0sty9422
+
+Package: com.tetley.iconreplace
+Version: 1.0
+Section: Themes
+Maintainer: Fr0sty9422
+Architecture: iphoneos-arm
+Depends: snowboard
+Filename: ./debs/com.tetley.iconreplace.deb
+Size: 1355030
+MD5sum: 8512641dac260fa20c3be5cf99226051
+Description: replaces cydia icon.
+Name: Replace Cydia Icon
+Author: Fr0sty9422
