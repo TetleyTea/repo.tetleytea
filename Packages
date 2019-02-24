@@ -2,9 +2,9 @@ Package: com.tetleyrepo.felicity
 Version: 3.0
 Section: Themes
 Maintainer: xerusdesign
-Depends: Anemone
+Depends: winterboard, anemone
 Architecture: iphoneos-arm
-Filename: ./debs/felicitytheme_3.0.deb
+Filename: ./debs/felicitytheme3.deb
 Size: 17198166
 MD5sum: e706918f808d803191b7f72d0e96a3e1
 Description: An Intense and Happy theme.
