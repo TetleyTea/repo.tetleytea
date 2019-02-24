@@ -1,16 +1,3 @@
-Package: com.tetleytea.winterboard
-Version: 0.9.3919
-Section: System
-Maintainer: Jay Freeman (saurik)
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.tetley.winterboard.deb
-Size: 110356
-MD5sum: bfaeb9a5c9b46cf88c7afa0bb6837b54
-Description: theme manager, used by most themes.
-Name: WinterBoard
-Author: Jay Freeman (saurik)
-
 Package: com.tetleytea.felicity
 Version: 3.0
 Section: Themes (ios12)
@@ -24,15 +11,15 @@ Description: An Intense and Happy theme.
 Name: Felicity 3.0
 Author: xerusDesign
 
-Package: com.tetleytea.openssh
-Version: 6.7p1-13
-Section: System
+Package: com.tetleytea.test
+Version: 1.0
+Section: Test
 Maintainer: Fr0sty9422
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.tetley.openssh.deb
-Size: 587096
-MD5sum: 0111f1a78dd126523c873031b06876b9
-Description: secure remote access between machines
-Name: OpenSSH
-Author: Unknown
+Filename: ./debs/com.tetley.test.deb
+Size: 1484
+MD5sum: ccdb0d73c3350edb80e8f51828721b21
+Description: a test app for writing in root filesystem.
+Name: TestRootApp
+Author: Fr0sty9422
