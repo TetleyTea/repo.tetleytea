@@ -5,17 +5,17 @@ Maintainer: Jay Freeman (saurik)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.winterboard.deb
-Size: 110836
-MD5sum: f717f0f46602e7168ffe25cc8317dd04
+Size: 111368
+MD5sum: 33f637d35d9c912c70f0ad2e870c849c
 Description: theme manager, used by most themes.
-Name: SnowBoard
+Name: WinterBoard
 Author: Jay Freeman (saurik)
 
 Package: com.tetleytea.felicity
 Version: 3.0
 Section: Themes (ios12)
 Maintainer: xerusDesign
-Depends: mobilesubstrate
+Depends: winterboard, mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.felicity.deb
 Size: 18329412
