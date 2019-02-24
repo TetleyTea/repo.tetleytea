@@ -1,25 +1,13 @@
-Package: com.tetleytea.felicity
-Version: 3.0
-Section: Themes (ios12)
-Maintainer: xerusDesign
-Depends: winterboard
-Architecture: iphoneos-arm
-Filename: ./debs/com.tetley.felicity.deb
-Size: 18329412
-MD5sum: 3113a0f8b2a41b7a4b3b95239a455543
-Description: An Intense and Happy theme.
-Name: Felicity 3.0
-Author: xerusDesign
-
 Package: com.tetleytea.test
 Version: 1.0
 Section: Test
 Maintainer: Fr0sty9422
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.test.deb
 Size: 650
-MD5sum: 0386a7a50078b0593eb3b6254dd70e8c
+MD5sum: bf5b706513a7b04ffa773ab8abfc635c
+SHA1: 782322c0204c792469926ed2bb9b1b2ced157d04
+SHA256: 03dc1999bfb2d85604df95904c5f84f04d88bd817fbf5039f9220f61708be2bb
 Description: a test app for writing in root filesystem.
 Name: TestRootApp
 Author: Fr0sty9422
