@@ -10,3 +10,16 @@ MD5sum: f717f0f46602e7168ffe25cc8317dd04
 Description: theme manager, used by most themes.
 Name: SnowBoard
 Author: Jay Freeman (saurik)
+
+Package: com.tetleytea.felicity
+Version: 3.0
+Section: Themes (ios12)
+Maintainer: xerusDesign
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.tetley.felicity.deb
+Size: 110836
+MD5sum: d5f9d239c1da04a40fe5e364cc612e9a
+Description: An Intense and Happy theme.
+Name: Felicity 3.0
+Author: xerusDesign
