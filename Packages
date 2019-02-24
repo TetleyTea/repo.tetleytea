@@ -1,10 +1,10 @@
-Package: com.tetleyrepo.felicity
+Package: com.tetley.felicity
 Version: 3.0
 Section: Themes
 Maintainer: Fr0sty9422
 Depends: winterboard
 Architecture: iphoneos-arm
-Filename: ./debs/felicitytheme3.deb
+Filename: ./debs/felicity.deb
 Size: 17198166
 MD5sum: e706918f808d803191b7f72d0e96a3e1
 SHA1: 3f54e4750f9fd80a08406cff9c38544817675554
