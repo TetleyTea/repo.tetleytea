@@ -15,10 +15,10 @@ Package: com.tetleytea.felicity
 Version: 3.0
 Section: Themes (ios12)
 Maintainer: xerusDesign
-Depends: winterboard
+Depends: com.tetleytea.winterboard
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.felicity.deb
-Size: 110836
+Size: 18329412
 MD5sum: d5f9d239c1da04a40fe5e364cc612e9a
 Description: An Intense and Happy theme.
 Name: Felicity 3.0
