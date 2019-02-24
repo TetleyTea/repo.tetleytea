@@ -1,12 +1,12 @@
 Package: com.tetleytea.winterboard
 Version: 0.9.3919
 Section: System
-Maintainer: Reposi3 <reposithree@gmail.com>
+Maintainer: Jay Freeman (saurik)
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.winterboard.deb
 Size: 110836
 MD5sum: f717f0f46602e7168ffe25cc8317dd04
-Description: this is a test.
+Description: theme manager, used by most themes.
 Name: SnowBoard
-Author: Reposi3 <reposithree@gmail.com>
+Author: Jay Freeman (saurik)
