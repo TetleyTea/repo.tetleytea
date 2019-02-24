@@ -1,8 +1,8 @@
-Package: com.supermamon.newpackage
+Package: com.tetleytea.winterboard
 Version: 0.9.3919
-Section: Tweaks
+Section: System
 Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>12.0), mobilesubstrate
+Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/winterboard_0.9.3919_iphoneos-arm.deb
 Size: 111104
