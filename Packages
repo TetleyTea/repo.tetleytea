@@ -16,7 +16,7 @@ Version: 1.0
 Section: Themes
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
-Depends: snowboard
+Depends: winterboard, mobilesubstrate
 Filename: ./debs/com.tetley.iconreplace.deb
 Size: 1355030
 MD5sum: 8512641dac260fa20c3be5cf99226051
