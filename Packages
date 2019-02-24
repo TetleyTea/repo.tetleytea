@@ -4,10 +4,8 @@ Section: Test
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.test.deb
-Size: 650
-MD5sum: bf5b706513a7b04ffa773ab8abfc635c
-SHA1: 782322c0204c792469926ed2bb9b1b2ced157d04
-SHA256: 03dc1999bfb2d85604df95904c5f84f04d88bd817fbf5039f9220f61708be2bb
+Size: 664
+MD5sum: 47673ef22b618b762a5e87db1d3b929a
 Description: a test app for writing in root filesystem.
 Name: TestRootApp
 Author: Fr0sty9422
