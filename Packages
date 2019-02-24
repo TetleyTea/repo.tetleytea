@@ -19,7 +19,7 @@ Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.tetley.felicity.deb
 Size: 18329412
-MD5sum: d5f9d239c1da04a40fe5e364cc612e9a
+MD5sum: 3113a0f8b2a41b7a4b3b95239a455543
 Description: An Intense and Happy theme.
 Name: Felicity 3.0
 Author: xerusDesign
