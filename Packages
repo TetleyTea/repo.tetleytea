@@ -12,14 +12,14 @@ Name: TestRootApp
 Author: Fr0sty9422
 
 Package: com.tetley.iconreplace
-Version: 1.0
+Version: 1.0.0
 Section: Themes
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
 Depends: winterboard, mobilesubstrate
 Filename: ./debs/com.tetley.iconreplace.deb
-Size: 1355030
-MD5sum: 8512641dac260fa20c3be5cf99226051
-Description: replaces cydia icon.
-Name: Replace Cydia Icon
+Size: 1409424
+MD5sum: 26556af3d6d1110135786a7044c30164
+Description: theme for ios12
+Name: Fr0sty Theme
 Author: Fr0sty9422
