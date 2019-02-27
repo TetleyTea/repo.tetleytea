@@ -4,7 +4,7 @@ Section: Test
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Icon: ./CydiaIcon.png
+Icon: CydiaIcon.png
 Filename: ./debs/com.tetley.roottest.deb
 Size: 3174
 MD5sum: e7d85f3411ad4150643891ac93aa0a43
