@@ -4,22 +4,10 @@ Section: Test
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
+Icon: ./CydiaIcon.png
 Filename: ./debs/com.tetley.roottest.deb
 Size: 3174
 MD5sum: e7d85f3411ad4150643891ac93aa0a43
 Description: a test app for writing in root filesystem.
 Name: TestRootApp
-Author: Fr0sty9422
-
-Package: com.tetley.iconreplace
-Version: 1.0.0
-Section: Themes
-Maintainer: Fr0sty9422
-Architecture: iphoneos-arm
-Depends: winterboard, mobilesubstrate
-Filename: ./debs/com.tetley.iconreplace.deb
-Size: 1409424
-MD5sum: 26556af3d6d1110135786a7044c30164
-Description: theme for ios12
-Name: Fr0sty Theme
 Author: Fr0sty9422
