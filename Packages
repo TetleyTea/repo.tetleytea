@@ -4,10 +4,23 @@ Section: Test
 Maintainer: Fr0sty9422
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Icon: CydiaIcon.png
 Filename: ./debs/com.tetley.roottest.deb
 Size: 3174
 MD5sum: e7d85f3411ad4150643891ac93aa0a43
 Description: a test app for writing in root filesystem.
 Name: TestRootApp
 Author: Fr0sty9422
+
+Package: com.tetley.wallpapers
+Version: 1.0.0.0
+Section: Test
+Maintainer: Fr0sty9422
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/com.tetley.wallpapers.deb
+Size: 87618
+MD5sum: 4d990d3e6914c557830edf187c5bbddb
+Description: 1080p wallpapers.
+Name: wallpapers
+Author: Fr0sty9422
+
