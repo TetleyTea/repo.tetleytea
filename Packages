@@ -1,26 +1,15 @@
-Package: com.tetley.roottest
-Version: 1.0
-Section: Test
-Maintainer: Fr0sty9422
+Package: com.tetley.filza64bit
+Version: 3.6.3-4
+Section: System
+Maintainer: tigisoftware
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/com.tetley.roottest.deb
-Size: 3174
-MD5sum: e7d85f3411ad4150643891ac93aa0a43
-Description: a test app for writing in root filesystem.
-Name: TestRootApp
-Author: Fr0sty9422
-
-Package: com.tetley.wallpapers
-Version: 1.0.0.0
-Section: Test
-Maintainer: Fr0sty9422
-Architecture: iphoneos-arm
-Depends: mobilesubstrate
-Filename: ./debs/com.tetley.wallpapers.deb
-Size: 276440
-MD5sum: f703c4a8b7afc9da428c704813cfe046
-Description: 1080p wallpapers.
-Name: wallpapers
-Author: Fr0sty9422
+Filename: ./debs/filza64bit.deb
+Size: 8265422
+MD5sum: 275e937b3aa1053c752358ae73616f76
+SHA1: f395107f47f4f72cdfd7791ab429b593a738515f
+SHA256: d3bc8bb6b2056e35ac654bb62b69cf8a963a5db80ab5e46a5f6dfffe9e4c7a2c
+Description: powerful File Manager for iPhone, iPad, iPod Touch
+Name: Filza64
+Author: tigisoftware
 
