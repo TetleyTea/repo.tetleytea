@@ -1,14 +1,12 @@
-Package: com.tetley.filza64bit
+Package: com.tetley.filza
 Version: 3.6.3-4
 Section: System
 Maintainer: tigisoftware
 Architecture: iphoneos-arm
 Depends: mobilesubstrate
-Filename: ./debs/filza64bit.deb
-Size: 8265422
-MD5sum: 275e937b3aa1053c752358ae73616f76
-SHA1: f395107f47f4f72cdfd7791ab429b593a738515f
-SHA256: d3bc8bb6b2056e35ac654bb62b69cf8a963a5db80ab5e46a5f6dfffe9e4c7a2c
+Filename: ./debs/com.tetley.filza.deb
+Size: 8264734
+MD5sum: 6f720cb18103753298b1058982261d6a
 Description: powerful File Manager for iPhone, iPad, iPod Touch
 Name: Filza64
 Author: tigisoftware
