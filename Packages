@@ -11,3 +11,16 @@ Description: powerful File Manager for iPhone, iPad, iPod Touch
 Name: Filza64
 Author: tigisoftware
 
+Package: com.tetley.filzafilemanager
+Version: 3.6.3
+Section: System
+Maintainer: tigisoftware
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Filename: ./debs/filzafilemanager_3.6.3.deb
+Size: 9283884
+MD5sum: 048401d3a93394db3a7fce4e3fbffbee
+Description: powerful File Manager for iPhone, iPad, iPod Touch
+Name: Filza
+Author: tigisoftware
+
