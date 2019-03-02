@@ -3,7 +3,7 @@ Version: 3.6.3
 Section: System
 Maintainer: tigisoftware
 Architecture: iphoneos-arm
-Depends: p7zip, zip, untar
+Depends: p7zip, zip, unrar
 Filename: ./debs/filzafilemanager.deb
 Size: 12407594
 MD5sum: c87547a8104e38fe73876dd3c4450769
