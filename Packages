@@ -1,13 +1,11 @@
-Package: com.tetley.filza
-Version: 3.6.3
-Section: System
-Maintainer: tigisoftware
+Package: com.ibiteyourrepo.cheating
+Version: 1.0
+Section: Ringtone
+Maintainer: iBiteYourRepo
 Architecture: iphoneos-arm
-Depends: p7zip, zip, unrar, mobilesubstrate
-Filename: ./debs/filzafilemanager.deb
-Size: 12407594
-MD5sum: c87547a8104e38fe73876dd3c4450769
-Description: powerful File Manager for iPhone, iPad, iPod Touch
-Name: Filza-iOS12
-Icon: file:///Applications/Filza.app/AppIcon60x60@2x.png
-Author: tigisoftware
+Filename: ./debs/cheating.deb
+Size: 628
+MD5sum: 0d0cdf2e43822bcb157894701504bcfa
+Description: cheating ringtone
+Name: TEST
+Author: iBiteYourRepo
